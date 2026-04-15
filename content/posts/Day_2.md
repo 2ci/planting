@@ -4,4 +4,4 @@ draft = true
 title = 'Day_2'
 +++
 Seed the pepper. 6 tray
-![seedling](/301.JPG)
+![seedling](/images/301.JPG)
