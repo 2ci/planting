@@ -13,6 +13,8 @@ frontend:
     baseDirectory: public
     files:
       - '**/*'
+  # --- ADD OR UPDATE THIS SECTION BELOW ---
   cache:
     paths:
       - resources/***
+      - .hugo/***
