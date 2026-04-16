@@ -12,4 +12,4 @@ Today is **April 15th**, and while it’s only been four days, the anticipation 
 
 I’m checking the trays every morning for those first signs of green "elbows" breaking through the soil. With this consistent warmth, I’m hoping to see the first true leaves emerge quickly. There’s nothing quite like the smell of fresh basil, and I can't wait to see these trays transform. Stay tuned for the first sprouts!
 
-![My Basil Trays](/IMG_7367.jpg)
+![My Basil Trays](/images/IMG_7367.jpg)
