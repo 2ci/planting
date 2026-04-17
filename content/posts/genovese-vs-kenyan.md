@@ -20,7 +20,7 @@ Within the genus *Ocimum*, the sweet basil plant (*Ocimum basilicum*) presents a
 <div style="clear: both;"></div>
 Genovese basil, native to the temperate Mediterranean coast of Liguria, is the gold standard for culinary integration. Its morphology is characterized by large, downward-curving, delicate green leaves. Biochemically, the Ligurian environment promotes a precise equilibrium of volatile organic compounds (VOCs). The essential oil profile is dominated by *linalool*, which imparts a sweet, floral aroma, balanced with moderate *eugenol* (clove notes) and minimal astringent elements. This delicate chemical structure requires highly stable, moderate climates to thrive.
 <figure style="width: 500px; margin: 1rem 2rem 1rem 0; float: left;">
-  <img src="/images/202604/kenya_basil.webp" 
+  <img src="/images/202604/Kenya_basil.webp" 
        alt="Kenyan sweet basil growing in high-altitude volcanic soil" 
        style="width: 100%; border-radius: 4px; display: block;">
   <figcaption style="font-family: sans-serif; font-size: 0.85rem; font-weight: normal; color: #666; margin-top: 2px; padding-top: 0;">

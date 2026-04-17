@@ -24,11 +24,11 @@
 &lt;/figure&gt;
 &lt;div style=&#34;clear: both;&#34;&gt;&lt;/div&gt;
 Genovese basil, native to the temperate Mediterranean coast of Liguria, is the gold standard for culinary integration. Its morphology is characterized by large, downward-curving, delicate green leaves. Biochemically, the Ligurian environment promotes a precise equilibrium of volatile organic compounds (VOCs). The essential oil profile is dominated by *linalool*, which imparts a sweet, floral aroma, balanced with moderate *eugenol* (clove notes) and minimal astringent elements. This delicate chemical structure requires highly stable, moderate climates to thrive.
-&lt;figure style=&#34;width: 500px; margin: 1rem 0 1rem 2rem; float: right;&#34;&gt;
+&lt;figure style=&#34;width: 500px; margin: 1rem 2rem 1rem 0; float: left;&#34;&gt;
   &lt;img src=&#34;//localhost:1313/images/202604/kenya_basil.webp&#34; 
        alt=&#34;Kenyan sweet basil growing in high-altitude volcanic soil&#34; 
        style=&#34;width: 100%; border-radius: 4px; display: block;&#34;&gt;
-  &lt;figcaption style=&#34;font-family: sans-serif; font-size: 0.85rem; font-weight: normal; color: #666; margin-top: 8px; border-top: 1px solid #eee; padding-top: 4px;&#34;&gt;
+  &lt;figcaption style=&#34;font-family: sans-serif; font-size: 0.85rem; font-weight: normal; color: #666; margin-top: 2px; padding-top: 0;&#34;&gt;
     Kenya Sweet Basil
   &lt;/figcaption&gt;
 &lt;/figure&gt;
