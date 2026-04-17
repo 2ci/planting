@@ -5,6 +5,9 @@
     <loc>//localhost:1313/tags/basil/</loc>
     <lastmod>2026-04-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/tags/botany/</loc>
     <lastmod>2026-04-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -18,9 +21,6 @@
     <lastmod>2026-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/elbows/</loc>
-    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/</loc>
     <lastmod>2026-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/</loc>
