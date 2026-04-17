@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Paco Planting</title>
-    <link>//localhost:1313/posts/</link>
-    <description>Recent content in Posts on Paco Planting</description>
+    <title>Botany on Paco Planting</title>
+    <link>//localhost:1313/tags/botany/</link>
+    <description>Recent content in Botany on Paco Planting</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Nature Moves Fast: Three-Day Basil Success</title>
-      <link>//localhost:1313/posts/elbows/</link>
-      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/elbows/</guid>
-      <description>&lt;p&gt;Just three days ago, I planted basil seeds, and today they are already showing off. I noticed the tiny &amp;ldquo;elbows&amp;rdquo; of the sprouts pushing through the soil, followed quickly by the first set of miniature leaves.&lt;/p&gt;
-&lt;p&gt;Normally, the books say to expect germination between five to fourteen days, so seeing this progress in just seventy-two hours feels like a small miracle. It’s a reminder that nature often has its own schedule regardless of what the guides suggest. Watching these tiny greens emerge so far ahead of schedule is the perfect boost for a Thursday afternoon. There is something deeply satisfying about documenting this kind of quiet, rapid growth in the soil.&lt;/p&gt;</description>
-    </item>
+    <atom:link href="//localhost:1313/tags/botany/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Anatomy of a Sprout: Understanding True Leaves</title>
       <link>//localhost:1313/posts/understanding-true-leaves/</link>
@@ -49,14 +41,6 @@
 &lt;/table&gt;
 &lt;h4 id=&#34;why-the-distinction-matters&#34;&gt;Why the Distinction Matters&lt;/h4&gt;
 &lt;p&gt;The &lt;strong&gt;Cotyledons&lt;/strong&gt; (seed leaves) are actually part of the plant&amp;rsquo;s embryo. They are pre-packed with nutrients to push the sprout through the soil. However, they aren&amp;rsquo;t permanent.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>From Seed to Sprout: The Basil Journey Begins</title>
-      <link>//localhost:1313/posts/my-first-post/</link>
-      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;Welcome to the very first entry of my growth journal! On &lt;strong&gt;April 11th&lt;/strong&gt;, I officially kicked off this season by seeding &lt;strong&gt;six trays of basil&lt;/strong&gt;. I decided to start this blog specifically to document their journey from tiny black specks to lush, aromatic bushes.&lt;/p&gt;
-&lt;p&gt;Today is &lt;strong&gt;April 15th&lt;/strong&gt;, and while it’s only been four days, the anticipation is building. The weather has been absolutely perfect lately, with temperatures hovering between &lt;strong&gt;22°C and 28°C&lt;/strong&gt;. Basil is a true sun-lover, and this warm range is the &amp;ldquo;sweet spot&amp;rdquo; for germination.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

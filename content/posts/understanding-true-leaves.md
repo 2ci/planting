@@ -19,9 +19,15 @@ The **Cotyledons** (seed leaves) are actually part of the plant's embryo. They a
 
 Once the **True Leaves** unfurl, the plant begins the process of photosynthesis. This is the "architectural" turning point where the basil stops relying on its internal stores and begins drawing energy from the sun and nutrients from the soil. On a small balcony or in a pulp-molded planter, this is the signal that your plant is successfully breathing and growing.
 
-<figure style="text-align: center;">
-  <img src="../../images/202604/IMG_7517.webp" ... alt="Basil sprouts in pulp molded planters" style="width:100%; max-width:600px; border-radius: 8px;">
-  <figcaption style="font-size: 0.9rem; font-style: italic; color: #555; margin-top: 8px;">
-    Fig. 1. Early-stage Ocimum basilicum (Basil) displaying primary cotyledons within recycled pulp vessels. Photo by Author.
-  </figcaption>
-</figure>
+<div style="margin: 30px 0; text-align: left;">
+    <img src="/images/202604/IMG_7517.webp" alt="Double D True Leaves" style="width: 100%; height: auto; display: block;">
+
+<div style="margin-top: 12px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 1.5;">
+        <span style="font-weight: 700; font-size: 0.95rem; color: #000; text-transform: uppercase; letter-spacing: 0.5px;">
+            Double D Appearance: 
+        </span>
+        <span style="font-weight: 400; font-size: 0.95rem; color: #333;">
+            The transition to primary true leaves.
+        </span>
+        
+</div>

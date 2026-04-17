@@ -2,3 +2,5 @@ theme = "PaperMod"
 baseURL = '/'
 locale = 'en-us'
 title = 'Paco Planting'
+[markup.goldmark.renderer]
+unsafe = true

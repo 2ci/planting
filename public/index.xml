@@ -1,19 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Project</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Project</description>
+    <title>Paco Planting</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Paco Planting</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Apr 2026 20:32:13 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Wed, 15 Apr 2026 20:32:13 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;&amp;ldquo;Day 1, seedling&amp;rdquo;&lt;/p&gt;</description>
+      <title>Nature Moves Fast: Three-Day Basil Success</title>
+      <link>//localhost:1313/posts/elbows/</link>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/elbows/</guid>
+      <description>&lt;p&gt;Just three days ago, I planted basil seeds, and today they are already showing off. I noticed the tiny &amp;ldquo;elbows&amp;rdquo; of the sprouts pushing through the soil, followed quickly by the first set of miniature leaves.&lt;/p&gt;
+&lt;p&gt;Normally, the books say to expect germination between five to fourteen days, so seeing this progress in just seventy-two hours feels like a small miracle. It’s a reminder that nature often has its own schedule regardless of what the guides suggest. Watching these tiny greens emerge so far ahead of schedule is the perfect boost for a Thursday afternoon. There is something deeply satisfying about documenting this kind of quiet, rapid growth in the soil.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Anatomy of a Sprout: Understanding True Leaves</title>
+      <link>//localhost:1313/posts/understanding-true-leaves/</link>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/understanding-true-leaves/</guid>
+      <description>&lt;h3 id=&#34;the-anatomy-of-a-sprout&#34;&gt;The Anatomy of a Sprout&lt;/h3&gt;
+&lt;p&gt;This isn’t just gardening; it’s a study in material science. As seedlings evolve, they hit a critical development phase where they transition from &amp;ldquo;battery power&amp;rdquo; to solar energy. Identifying these stages is essential for knowing when your plant has officially established itself.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Stage&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Name&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Appearance&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Function&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;First Set&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Cotyledons&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Two simple, smooth, rounded &amp;ldquo;D&amp;rdquo; shapes.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Energy from the seed. No scent yet.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Second Set&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;True Leaves&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Ridged, pointed, and &amp;ldquo;crinkly.&amp;rdquo;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Photosynthesis &amp;amp; that classic basil scent.&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;why-the-distinction-matters&#34;&gt;Why the Distinction Matters&lt;/h4&gt;
+&lt;p&gt;The &lt;strong&gt;Cotyledons&lt;/strong&gt; (seed leaves) are actually part of the plant&amp;rsquo;s embryo. They are pre-packed with nutrients to push the sprout through the soil. However, they aren&amp;rsquo;t permanent.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>From Seed to Sprout: The Basil Journey Begins</title>
+      <link>//localhost:1313/posts/my-first-post/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Welcome to the very first entry of my growth journal! On &lt;strong&gt;April 11th&lt;/strong&gt;, I officially kicked off this season by seeding &lt;strong&gt;six trays of basil&lt;/strong&gt;. I decided to start this blog specifically to document their journey from tiny black specks to lush, aromatic bushes.&lt;/p&gt;
+&lt;p&gt;Today is &lt;strong&gt;April 15th&lt;/strong&gt;, and while it’s only been four days, the anticipation is building. The weather has been absolutely perfect lately, with temperatures hovering between &lt;strong&gt;22°C and 28°C&lt;/strong&gt;. Basil is a true sun-lover, and this warm range is the &amp;ldquo;sweet spot&amp;rdquo; for germination.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
