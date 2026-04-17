@@ -7,15 +7,28 @@ tags: ["botany", "basil-varieties", "phytochemistry", "agriculture"]
 
 Within the genus *Ocimum*, the sweet basil plant (*Ocimum basilicum*) presents a fascinating case study in how geographical provenance dictates organoleptic properties. While both the classic Italian Genovese basil and the commercially dominant Kenyan sweet basil share a taxonomic lineage, their cultivation environments induce remarkably distinct phytochemical profiles.
 
-Genovese basil, native to the temperate Mediterranean coast of Liguria, is the gold standard for culinary integration. Its morphology is characterized by large, downward-curving, delicate green leaves. Biochemically, the Ligurian environment promotes a precise equilibrium of volatile organic compounds (VOCs). The essential oil profile is dominated by *linalool*, which imparts a sweet, floral aroma, balanced with moderate *eugenol* (clove notes) and minimal astringent elements. This delicate chemical structure requires highly stable, moderate climates to thrive.
-<figure style="width: 500px; margin: 2rem auto; text-align: left;">
-  <img src="/images/202604/ligurian_basil.webp" 
+
+<figure style="width: 500px; margin: 1rem 2rem 1rem 0; float: left;">
+  <img src="/images/202604/Genovese_basil.webp" 
        alt="Ligurian basil growing in Italy" 
        style="width: 100%; border-radius: 4px; display: block;">
-  <figcaption style="font-family: sans-serif; font-size: 0.85rem; color: #666; margin-top: 8px;">
-    Ligurian basil
+  <figcaption style="font-family: sans-serif; font-size: 0.85rem; font-weight: normal; color: #666; margin-top: 8px; border-top: 1px solid #eee; padding-top: 4px;">
+    Genovese Basil
   </figcaption>
 </figure>
+
+<div style="clear: both;"></div>
+Genovese basil, native to the temperate Mediterranean coast of Liguria, is the gold standard for culinary integration. Its morphology is characterized by large, downward-curving, delicate green leaves. Biochemically, the Ligurian environment promotes a precise equilibrium of volatile organic compounds (VOCs). The essential oil profile is dominated by *linalool*, which imparts a sweet, floral aroma, balanced with moderate *eugenol* (clove notes) and minimal astringent elements. This delicate chemical structure requires highly stable, moderate climates to thrive.
+<figure style="width: 500px; margin: 1rem 2rem 1rem 0; float: left;">
+  <img src="/images/202604/kenya_basil.webp" 
+       alt="Kenyan sweet basil growing in high-altitude volcanic soil" 
+       style="width: 100%; border-radius: 4px; display: block;">
+  <figcaption style="font-family: sans-serif; font-size: 0.85rem; font-weight: normal; color: #666; margin-top: 2px; padding-top: 0;">
+    Kenya Sweet Basil
+  </figcaption>
+</figure>
+
+<div style="clear: both;"></div>
 Conversely, Kenyan sweet basil—currently the primary winter export to the European Union—demonstrates the remarkable adaptability of the species. Cultivated in high-altitude volcanic soils near the equator, this variant is subjected to intense ultraviolet radiation and distinct diurnal temperature shifts. 
 
 To adapt to this environmental stress, the Kenyan cultivars significantly upregulate their secondary metabolite production. The result is a robust plant with a higher total concentration of essential oils. While still sharing the core *linalool* sweetness of its Italian counterpart, Kenyan basil exhibits a more concentrated, peppery, and slightly minty profile. From an agricultural standpoint, the warm equatorial days accelerate the metabolic cycle, allowing for rapid 45-day harvest rotations. Furthermore, the thicker cellular walls developed in these conditions provide a superior post-harvest shelf life (up to 10 days in cold-chain logistics), making it an indispensable resource in global agricultural supply chains. 
