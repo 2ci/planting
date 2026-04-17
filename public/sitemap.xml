@@ -2,13 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/tags/basil/</loc>
-    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/tags/agriculture/</loc>
+    <lastmod>2026-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/basil-varieties/</loc>
+    <lastmod>2026-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/botany/</loc>
+    <lastmod>2026-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/phytochemistry/</loc>
+    <lastmod>2026-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2026-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2026-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/genovese-vs-kenyan/</loc>
+    <lastmod>2026-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/basil/</loc>
     <lastmod>2026-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/daily-life/</loc>
@@ -21,12 +39,6 @@
     <lastmod>2026-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/elbows/</loc>
-    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
     <lastmod>2026-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/understanding-true-leaves/</loc>
